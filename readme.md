@@ -8,3 +8,6 @@ you can definitely steal it but I recommend to watching/read these good vim reso
 1. vimtutor in your own vim
 2. mastering vim language: https://youtu.be/wlR5gYd6um0
 3. maybe you don't need further plugins or config (especially from this stinky repo): https://youtu.be/XA2WjJbmmoM
+
+## config
+after clone it, read this: https://www.chrisatmachine.com/Neovim/01-vim-plug/ (not my blog)
