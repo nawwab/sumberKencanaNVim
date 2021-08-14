@@ -1,6 +1,7 @@
-# My Vim config
-please don't use this stinky config, it is not ready yet, and use it at your own risk!
-you can go to my self explanatory init.vim to explore this configuration
+# My Vim(Neovim) config
+Please don't use this stinky config, it is not ready yet, and use it at your own risk!
+
+You can go to my self explanatory init.vim to explore this configuration
 
 ## note for .vimrc stealer aka vim beginner out there
 you can definitely steal it but I recommend to watching/read these good vim resources:
