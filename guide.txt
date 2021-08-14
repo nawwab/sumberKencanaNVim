@@ -1,0 +1,17 @@
+// some useful commands
+// nerdtree
+ctrl + t : toggle nerdtree
+// managing files
+you can start click "m" and you can see all command
+(to use directly use m + selected character to that command)
+
+// general keybindings
+ctrl + [hjkl] : change window
+alt + [hjkl] : change window size
+
+//navigating files
+command: :find filename : search for file
+command: :b openeduncompletefilename : focus to selected file buffer
+note: you can tab if something not unique
+
+
