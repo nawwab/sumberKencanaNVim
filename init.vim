@@ -16,5 +16,3 @@ source $HOME/.config/nvim/plug-config/airline.vim
 " NERDTree configuration
 source $HOME/.config/nvim/plug-config/nerdtree.vim
 
-" ale configuration
-source $HOME/.config/nvim/plug-config/ale.vim

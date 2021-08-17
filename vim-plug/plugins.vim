@@ -16,18 +16,15 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 	Plug 'jiangmiao/auto-pairs'
 	" coc intellisense
 	Plug 'neoclide/coc.nvim', {'branch': 'release'}
- " airline theme
+  " airline theme
   Plug 'vim-airline/vim-airline-themes'
   " airline: status line on the bottom
   Plug 'vim-airline/vim-airline' 
-  " Intellij Color Scheme
-  Plug 'morhetz/gruvbox'
+  " onedark theme
+  Plug 'joshdick/onedark.vim'
   " Git Integration
   Plug 'Xuyuanp/nerdtree-git-plugin'
   " Git Gutter
   Plug 'airblade/vim-gitgutter'
-  " lint engine for eslint
-  Plug 'w0rp/ale'
-  " vim rooter: change root folder to current opened folder location
-  Plug 'airblade/vim-rooter'
+
 call plug#end()

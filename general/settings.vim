@@ -1,5 +1,6 @@
 " set leader key
 let g:mapleader = "\<Space>"
+colorscheme onedark
 
 syntax enable                           " Enables syntax highlighing
 set hidden                              " Required to keep multiple buffers open multiple buffers
@@ -33,6 +34,7 @@ set updatetime=300                      " Faster completion
 set timeoutlen=50                      " By default timeoutlen is 1000 ms
 set formatoptions-=cro                  " Stop newline continution of comments
 set clipboard=unnamedplus               " Copy paste between vim and everything else
+set autochdir
 
 " Search down into subfolders
 " Provides tab-completion for all file-related tasks
@@ -41,6 +43,8 @@ set path+=**
 " Display all matching files when we tab complete
 set wildmenu
 
+" ignore some folder
+:set wildignore+=*/min/*,*/vendor/*,*/node_modules/*,*/bower_components/*,*/autoload/*
 
 au! BufWritePost $MYVIMRC source %      " auto source when writing to init.vm alternatively you can run :source $MYVIMRC
 
