@@ -1,6 +1,13 @@
-halo saya Nawwab Zia dari 12 Agustus 2021
-berikut penjelasan beberapa direktori disini:
-1. autoload: buat vim-plug (plugin manager buat nvim).
-2. init.vim: semua config harus di "referensikan disini".
-3. vim-plug: berisi plugins.vim yang mana melist semua plugin yang diinstal
-4. plug-config: berisi config yang dibutuhkan oleh semua plugin
+# My Vim(Neovim) config
+Please don't use this stinky config, it is not ready yet, and use it at your own risk!
+
+You can go to my self explanatory init.vim to explore this configuration
+
+## note for .vimrc stealer aka vim beginner out there
+you can definitely steal it but I recommend to watching/read these good vim resources:
+1. vimtutor in your own vim
+2. mastering vim language: https://youtu.be/wlR5gYd6um0
+3. maybe you don't need further plugins or config (especially from this stinky repo): https://youtu.be/XA2WjJbmmoM
+
+## config
+after clone it, read this: https://www.chrisatmachine.com/Neovim/01-vim-plug/ (not my blog)
