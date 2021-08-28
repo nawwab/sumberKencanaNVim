@@ -26,5 +26,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
   Plug 'Xuyuanp/nerdtree-git-plugin'
   " Git Gutter
   Plug 'airblade/vim-gitgutter'
+  " editor config
+  Plug 'editorconfig/editorconfig-vim'
 
 call plug#end()
