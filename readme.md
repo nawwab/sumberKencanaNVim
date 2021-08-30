@@ -1,4 +1,4 @@
-![sumberKencanaNvim](https://github.com/nawwab/sumberKencanaNVim/blob/main/logo.png?raw=true)
+![sumberKencanaNvim](https://github.com/nawwab/sumberKencanaNVim/blob/main/newLogo.png?raw=true)
 
 # sumberKencanaNVim
 nvim config for impatient user, use at your own risk.
