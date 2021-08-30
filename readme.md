@@ -1,14 +1,14 @@
 ![sumberKencanaNvim](https://github.com/nawwab/sumberKencanaNVim/blob/main/logo.png?raw=true)
 
 # sumberKencanaNVim
-is a nvim config for impatient user, use at your own risk.
+nvim config for impatient user, use at your own risk.
 
 ## Prerequisites
 1. NeoVim 0.5.0
+2. Maybe you want to remap your Caps Lock key to Escape
 
 ## Installation
-1. clone this repo to ~/.config
-`git clone https://github.com/nawwab/sumberKencanaNVim.git ~/.config/nvim`
+1. clone this repo to ~/.config: `git clone https://github.com/nawwab/sumberKencanaNVim.git ~/.config/nvim`
 2. open nvim
 3. type :PlugInstall (learn more about [vim-plug](https://github.com/junegunn/vim-plug))
 
