@@ -28,5 +28,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
   Plug 'airblade/vim-gitgutter'
   " editor config
   Plug 'editorconfig/editorconfig-vim'
+  " discord presence
+  Plug 'andweeb/presence.nvim'
 
 call plug#end()
