@@ -30,5 +30,9 @@ call plug#begin('~/.config/nvim/autoload/plugged')
   Plug 'editorconfig/editorconfig-vim'
   " discord presence
   Plug 'andweeb/presence.nvim'
+  " show css color
+  Plug 'ap/vim-css-color'
+  " searcher
+  Plug 'mileszs/ack.vim'
 
 call plug#end()

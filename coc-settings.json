@@ -8,5 +8,10 @@
   "tsserver.formatOnType": true,
   "coc.preferences.formatOnType": true,
   "eslint.autoFixOnSave": true,
-  "eslint.filetypes": ["javascript", "javascriptreact", "typescript", "typescriptreact"]
+  "eslint.filetypes": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+  "npm.binPath": "~/.nvm/versions/node/v14.17.6/bin/npm",
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+  }
 }

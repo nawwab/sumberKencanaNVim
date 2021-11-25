@@ -34,8 +34,8 @@ set updatetime=300                      " Faster completion
 set timeoutlen=50                      " By default timeoutlen is 1000 ms
 set formatoptions=cro                  " Stop newline continution of comments
 set signcolumn=yes
-set clipboard=unnamedplus               " Copy paste between vim and everything else
 set autochdir
+set clipboard+=unnamedplus
 
 " Search down into subfolders
 " Provides tab-completion for all file-related tasks
